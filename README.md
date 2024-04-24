@@ -39,6 +39,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 
 ### Deblurring
 - (arXiv 2024.03) Aggregating Local and Global Features via Selective State Spaces Model for Efficient Image Deblurring, [[Paper]](https://arxiv.org/pdf/2403.20106.pdf),[[Code]](https://github.com/MambaMixer/M2)
+- (arXiv 2024.04) CU-Mamba: Selective State Space Models with Channel Learning for Image Restoration, [[Paper]](https://arxiv.org/pdf/2404.11778.pdf)
 
 ### Dehazing
 - (arXiv 2024.02) U-shaped Vision Mamba for Single Image Dehazing, [[Paper]](https://arxiv.org/pdf/2402.04139.pdf),[[Code]](https://github.com/zzr-idam)
